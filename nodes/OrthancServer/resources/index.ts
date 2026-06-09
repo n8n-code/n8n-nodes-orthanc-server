@@ -1,0 +1,10 @@
+export { trackingChangesDescription } from './tracking-changes';
+export { instancesDescription } from './instances';
+export { otherDescription } from './other';
+export { jobsDescription } from './jobs';
+export { networkingDescription } from './networking';
+export { patientsDescription } from './patients';
+export { systemDescription } from './system';
+export { seriesDescription } from './series';
+export { studiesDescription } from './studies';
+export { logsDescription } from './logs';
