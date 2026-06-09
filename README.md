@@ -53,18 +53,318 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Tracking Changes | Delete clear changes, Get list changes, Delete clear exports, Get list exports |
-| Instances | Get list the available instances, Post upload dicom instances, Delete some instance, Post anonymize instance, Get list attachments, Delete attachment, Put set attachment, Post compress attachment, Get attachment no decompression, Get md5 of attachment on disk, Get size of attachment on disk, Get attachment, Get info about the attachment, Get is attachment compressed, Get md5 of attachment, Get size of attachment, Post uncompress attachment, Post verify attachment, Get raw tag, Post write dicom onto filesystem, Get download dicom, Get list available frames, Get decode a frame int16, Get decode a frame uint16, Get decode a frame uint8, Get decode frame for matlab, Get decode frame for numpy, Get decode a frame preview, Get access raw frame, Get access raw frame compressed, Get render a frame, Get dicom metaheader, Get decode an image int16, Get decode an image uint16, Get decode an image uint8, Get decode frame for matlab, Get list metadata, Delete metadata, Put set metadata, Post modify instance, Get instance module, Get decode instance for numpy, Get parent patient, Get embedded pdf, Get decode an image preview, Post reconstruct tags  optionally files of instance, Get render an image, Get parent series, Get humanreadable tags, Get instance statistics, Get parent study, Get dicom tags |
-| Other | Get list operations on attachments, Get list operations, Get list operations on attachments, Get list operations on attachments, Get list operations on attachments, Get list operations |
-| Jobs | Get list jobs, Post cancel job, Post pause job, Post resubmit job, Post resume job |
-| Networking | Get list dicom modalities, Delete dicom modality, Put update dicom modality, Get modality configuration, Post trigger cecho scu, Post cfind scu for worklist, Post trigger cmove scu, Post trigger cfind scu, Post trigger storage commitment request, Post trigger cstore scu, Post straight cstore scu, Get list orthanc peers, Delete orthanc peer, Put update orthanc peer, Get peer configuration, Post send to orthanc peer, Post straight store to peer, Get peer system information, Get list queryretrieve operations, Delete a query, Get list answers to a query, Get one answer, Post query the child instances of an answer, Post query the child series of an answer, Post query the child studies of an answer, Post retrieve one answer, Get level of original query, Get modality of original query, Get original query arguments, Post retrieve all answers, Get storage commitment report, Post remove after storage commitment |
-| Patients | Get list the available patients, Delete some patient, Post anonymize patient, Get create zip archive, Post create zip archive, Get list attachments, Delete attachment, Put set attachment, Post compress attachment, Get attachment no decompression, Get md5 of attachment on disk, Get size of attachment on disk, Get attachment, Get info about the attachment, Get is attachment compressed, Get md5 of attachment, Get size of attachment, Post uncompress attachment, Post verify attachment, Get child instances, Get tags of instances, Get create dicomdir media, Post create dicomdir media, Get list metadata, Delete metadata, Put set metadata, Post modify patient, Get patient module, Get is the patient protected against recycling, Put protect one patient against recycling, Post reconstruct tags  optionally files of patient, Get child series, Get shared tags, Get patient statistics, Get child studies |
-| System | Get list plugins, Get javascript extensions to orthanc explorer, Get database statistics, Get system information, Get accepted transfer syntaxes, Put set accepted transfer syntaxes, Post anonymize a set of resources, Post describe a set of resources, Post delete a set of resources, Post modify a set of resources, Post create zip archive, Post create one dicom instance, Post create dicomdir media, Post create dicomdir media, Get default encoding, Put set default encoding, Get dicom conformance, Post trigger cecho scu, Post execute lua script, Post look for local resources, Get generate an identifier, Post invalidate dicomasjson summaries, Post look for dicom identifiers, Get are metrics collected, Put enable collection of metrics, Get usage metrics, Get utc time, Get local time, Post reconstruct all the index, Post restart orthanc, Post shutdown orthanc, Get is unknown sop class accepted, Put set unknown sop class accepted |
-| Series | Get list the available series, Delete some series, Post anonymize series, Get create zip archive, Post create zip archive, Get list attachments, Delete attachment, Put set attachment, Post compress attachment, Get attachment no decompression, Get md5 of attachment on disk, Get size of attachment on disk, Get attachment, Get info about the attachment, Get is attachment compressed, Get md5 of attachment, Get size of attachment, Post uncompress attachment, Post verify attachment, Get child instances, Get tags of instances, Get create dicomdir media, Post create dicomdir media, Get list metadata, Delete metadata, Put set metadata, Post modify series, Get series module, Get decode series for numpy, Get parent patient, Post reconstruct tags  optionally files of series, Get shared tags, Get series statistics, Get parent study |
-| Studies | Get list the available studies, Delete some study, Post anonymize study, Get create zip archive, Post create zip archive, Get list attachments, Delete attachment, Put set attachment, Post compress attachment, Get attachment no decompression, Get md5 of attachment on disk, Get size of attachment on disk, Get attachment, Get info about the attachment, Get is attachment compressed, Get md5 of attachment, Get size of attachment, Post uncompress attachment, Post verify attachment, Get child instances, Get tags of instances, Get create dicomdir media, Post create dicomdir media, Post merge study, Get list metadata, Delete metadata, Put set metadata, Post modify study, Get study module, Get patient module of study, Get parent patient, Post reconstruct tags  optionally files of study, Get child series, Get shared tags, Post split study, Get study statistics |
-| Logs | Get main log level, Put set main log level, Get log level for dicom, Put set log level for dicom, Get log level for generic, Put set log level for generic, Get log level for http, Put set log level for http, Get log level for jobs, Put set log level for jobs, Get log level for lua, Put set log level for lua, Get log level for plugins, Put set log level for plugins, Get log level for sqlite, Put set log level for sqlite |
+<details>
+<summary><b>Tracking Changes</b> (4 operations)</summary>
+
+- Delete Clear changes
+- Get List changes
+- Delete Clear exports
+- Get List exports
+
+</details>
+
+<details>
+<summary><b>Instances</b> (52 operations)</summary>
+
+- Get List the available instances
+- Post Upload DICOM instances
+- Delete some instance
+- Post Anonymize instance
+- Get List attachments
+- Delete attachment
+- Put Set attachment
+- Post Compress attachment
+- Get attachment no decompression
+- Get MD5 of attachment on disk
+- Get size of attachment on disk
+- Get attachment
+- Get info about the attachment
+- Get Is attachment compressed
+- Get MD5 of attachment
+- Get size of attachment
+- Post Uncompress attachment
+- Post Verify attachment
+- Get raw tag
+- Post Write DICOM onto filesystem
+- Get Download DICOM
+- Get List available frames
+- Get Decode a frame int16
+- Get Decode a frame uint16
+- Get Decode a frame uint8
+- Get Decode frame for Matlab
+- Get Decode frame for numpy
+- Get Decode a frame preview
+- Get Access raw frame
+- Get Access raw frame compressed
+- Get Render a frame
+- Get DICOM meta header
+- Get Decode an image int16
+- Get Decode an image uint16
+- Get Decode an image uint8
+- Get Decode frame for Matlab
+- Get List metadata
+- Delete metadata
+- Put Set metadata
+- Post Modify instance
+- Get instance module
+- Get Decode instance for numpy
+- Get parent patient
+- Get embedded PDF
+- Get Decode an image preview
+- Post Reconstruct tags optionally files of instance
+- Get Render an image
+- Get parent series
+- Get human readable tags
+- Get instance statistics
+- Get parent study
+- Get DICOM tags
+
+</details>
+
+<details>
+<summary><b>Other</b> (6 operations)</summary>
+
+- Get List operations on attachments
+- Get List operations
+- Get List operations on attachments
+- Get List operations on attachments
+- Get List operations on attachments
+- Get List operations
+
+</details>
+
+<details>
+<summary><b>Jobs</b> (5 operations)</summary>
+
+- Get List jobs
+- Post Cancel job
+- Post Pause job
+- Post Resubmit job
+- Post Resume job
+
+</details>
+
+<details>
+<summary><b>Networking</b> (32 operations)</summary>
+
+- Get List DICOM modalities
+- Delete DICOM modality
+- Put Update DICOM modality
+- Get modality configuration
+- Post Trigger C ECHO SCU
+- Post C FIND SCU for worklist
+- Post Trigger C MOVE SCU
+- Post Trigger C FIND SCU
+- Post Trigger storage commitment request
+- Post Trigger C STORE SCU
+- Post Straight C STORE SCU
+- Get List Orthanc peers
+- Delete Orthanc peer
+- Put Update Orthanc peer
+- Get peer configuration
+- Post Send to Orthanc peer
+- Post Straight store to peer
+- Get peer system information
+- Get List query retrieve operations
+- Delete a query
+- Get List answers to a query
+- Get one answer
+- Post Query the child instances of an answer
+- Post Query the child series of an answer
+- Post Query the child studies of an answer
+- Post Retrieve one answer
+- Get level of original query
+- Get modality of original query
+- Get original query arguments
+- Post Retrieve all answers
+- Get storage commitment report
+- Post Remove after storage commitment
+
+</details>
+
+<details>
+<summary><b>Patients</b> (35 operations)</summary>
+
+- Get List the available patients
+- Delete some patient
+- Post Anonymize patient
+- Get Create ZIP archive
+- Post Create ZIP archive
+- Get List attachments
+- Delete attachment
+- Put Set attachment
+- Post Compress attachment
+- Get attachment no decompression
+- Get MD5 of attachment on disk
+- Get size of attachment on disk
+- Get attachment
+- Get info about the attachment
+- Get Is attachment compressed
+- Get MD5 of attachment
+- Get size of attachment
+- Post Uncompress attachment
+- Post Verify attachment
+- Get child instances
+- Get tags of instances
+- Get Create DICOMDIR media
+- Post Create DICOMDIR media
+- Get List metadata
+- Delete metadata
+- Put Set metadata
+- Post Modify patient
+- Get patient module
+- Get Is the patient protected against recycling
+- Put Protect one patient against recycling
+- Post Reconstruct tags optionally files of patient
+- Get child series
+- Get shared tags
+- Get patient statistics
+- Get child studies
+
+</details>
+
+<details>
+<summary><b>System</b> (33 operations)</summary>
+
+- Get List plugins
+- Get JavaScript extensions to Orthanc Explorer
+- Get database statistics
+- Get system information
+- Get accepted transfer syntaxes
+- Put Set accepted transfer syntaxes
+- Post Anonymize a set of resources
+- Post Describe a set of resources
+- Post Delete a set of resources
+- Post Modify a set of resources
+- Post Create ZIP archive
+- Post Create one DICOM instance
+- Post Create DICOMDIR media
+- Post Create DICOMDIR media
+- Get default encoding
+- Put Set default encoding
+- Get DICOM conformance
+- Post Trigger C ECHO SCU
+- Post Execute Lua script
+- Post Look for local resources
+- Get Generate an identifier
+- Post Invalidate DICOM as JSON summaries
+- Post Look for DICOM identifiers
+- Get Are metrics collected
+- Put Enable collection of metrics
+- Get usage metrics
+- Get UTC time
+- Get local time
+- Post Reconstruct all the index
+- Post Restart Orthanc
+- Post Shutdown Orthanc
+- Get Is unknown SOP class accepted
+- Put Set unknown SOP class accepted
+
+</details>
+
+<details>
+<summary><b>Series</b> (34 operations)</summary>
+
+- Get List the available series
+- Delete some series
+- Post Anonymize series
+- Get Create ZIP archive
+- Post Create ZIP archive
+- Get List attachments
+- Delete attachment
+- Put Set attachment
+- Post Compress attachment
+- Get attachment no decompression
+- Get MD5 of attachment on disk
+- Get size of attachment on disk
+- Get attachment
+- Get info about the attachment
+- Get Is attachment compressed
+- Get MD5 of attachment
+- Get size of attachment
+- Post Uncompress attachment
+- Post Verify attachment
+- Get child instances
+- Get tags of instances
+- Get Create DICOMDIR media
+- Post Create DICOMDIR media
+- Get List metadata
+- Delete metadata
+- Put Set metadata
+- Post Modify series
+- Get series module
+- Get Decode series for numpy
+- Get parent patient
+- Post Reconstruct tags optionally files of series
+- Get shared tags
+- Get series statistics
+- Get parent study
+
+</details>
+
+<details>
+<summary><b>Studies</b> (36 operations)</summary>
+
+- Get List the available studies
+- Delete some study
+- Post Anonymize study
+- Get Create ZIP archive
+- Post Create ZIP archive
+- Get List attachments
+- Delete attachment
+- Put Set attachment
+- Post Compress attachment
+- Get attachment no decompression
+- Get MD5 of attachment on disk
+- Get size of attachment on disk
+- Get attachment
+- Get info about the attachment
+- Get Is attachment compressed
+- Get MD5 of attachment
+- Get size of attachment
+- Post Uncompress attachment
+- Post Verify attachment
+- Get child instances
+- Get tags of instances
+- Get Create DICOMDIR media
+- Post Create DICOMDIR media
+- Post Merge study
+- Get List metadata
+- Delete metadata
+- Put Set metadata
+- Post Modify study
+- Get study module
+- Get patient module of study
+- Get parent patient
+- Post Reconstruct tags optionally files of study
+- Get child series
+- Get shared tags
+- Post Split study
+- Get study statistics
+
+</details>
+
+<details>
+<summary><b>Logs</b> (16 operations)</summary>
+
+- Get main log level
+- Put Set main log level
+- Get log level for dicom
+- Put Set log level for dicom
+- Get log level for generic
+- Put Set log level for generic
+- Get log level for HTTP
+- Put Set log level for HTTP
+- Get log level for jobs
+- Put Set log level for jobs
+- Get log level for lua
+- Put Set log level for lua
+- Get log level for plugins
+- Put Set log level for plugins
+- Get log level for sqlite
+- Put Set log level for sqlite
+
+</details>
 
 ---
 

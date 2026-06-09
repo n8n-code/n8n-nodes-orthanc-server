@@ -12,14 +12,14 @@ import { logsDescription } from './resources/logs';
 
 export class OrthancServer implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'orthanc-server',
+		displayName: 'Orthanc Server',
 		name: 'N8nDevOrthancServer',
 		icon: { light: 'file:./orthanc-server.svg', dark: 'file:./orthanc-server.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'The full documentation of the REST API of Orthanc.This reference is automatically generated from the source code of Orthanc. A [shorter..',
-		defaults: { name: 'orthanc-server' },
+		defaults: { name: 'Orthanc Server' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

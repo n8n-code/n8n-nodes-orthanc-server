@@ -465,7 +465,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the DICOM modality of interest",
@@ -502,7 +502,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the new/updated DICOM modality",
@@ -820,7 +820,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Use Dicom Tls",
+			"displayName": "Use Dicom TLS",
 			"name": "UseDicomTls",
 			"type": "boolean",
 			"default": true,
@@ -864,7 +864,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -901,7 +901,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -988,7 +988,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -1100,7 +1100,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -1362,7 +1362,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -1524,7 +1524,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -1636,7 +1636,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -1998,7 +1998,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -2095,7 +2095,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the Orthanc peer of interest",
@@ -2132,7 +2132,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the new/updated Orthanc peer",
@@ -2225,7 +2225,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Http Headers",
+			"displayName": "HTTP Headers",
 			"name": "HttpHeaders",
 			"type": "json",
 			"default": "{}",
@@ -2344,7 +2344,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the peer of interest",
@@ -2381,7 +2381,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -2593,7 +2593,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the modality of interest",
@@ -2646,7 +2646,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the peer of interest",
@@ -2702,7 +2702,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -2814,7 +2814,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -2901,7 +2901,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -2956,7 +2956,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3061,7 +3061,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3166,7 +3166,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3271,7 +3271,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3526,7 +3526,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3563,7 +3563,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3650,7 +3650,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3687,7 +3687,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the query of interest",
@@ -3924,7 +3924,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the storage commitment report",
@@ -3961,7 +3961,7 @@ export const networkingDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Identifier of the storage commitment report",

@@ -2363,7 +2363,7 @@ export const systemDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Use Dicom Tls",
+			"displayName": "Use Dicom TLS",
 			"name": "UseDicomTls",
 			"type": "boolean",
 			"default": true,

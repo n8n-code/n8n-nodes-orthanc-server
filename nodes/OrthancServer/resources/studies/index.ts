@@ -638,7 +638,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -675,7 +675,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1087,7 +1087,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1124,7 +1124,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1286,7 +1286,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1347,7 +1347,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1426,7 +1426,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1497,7 +1497,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1576,7 +1576,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1655,7 +1655,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1734,7 +1734,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1813,7 +1813,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1892,7 +1892,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -1971,7 +1971,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2050,7 +2050,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2129,7 +2129,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2184,7 +2184,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2239,7 +2239,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2369,7 +2369,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2481,7 +2481,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2593,7 +2593,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2630,7 +2630,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -2792,7 +2792,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3004,7 +3004,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3065,7 +3065,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3144,7 +3144,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3215,7 +3215,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3627,7 +3627,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3739,7 +3739,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3851,7 +3851,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -3888,7 +3888,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -4025,7 +4025,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -4112,7 +4112,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -4149,7 +4149,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",
@@ -4411,7 +4411,7 @@ export const studiesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",

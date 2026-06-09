@@ -133,7 +133,7 @@ export const otherDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -206,7 +206,7 @@ export const otherDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "",
@@ -267,7 +267,7 @@ export const otherDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -346,7 +346,7 @@ export const otherDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -425,7 +425,7 @@ export const otherDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the study of interest",

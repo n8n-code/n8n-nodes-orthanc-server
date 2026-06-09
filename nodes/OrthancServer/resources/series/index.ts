@@ -614,7 +614,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -651,7 +651,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1063,7 +1063,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1100,7 +1100,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1262,7 +1262,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1323,7 +1323,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1402,7 +1402,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1473,7 +1473,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1552,7 +1552,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1631,7 +1631,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1710,7 +1710,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1789,7 +1789,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1868,7 +1868,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -1947,7 +1947,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2026,7 +2026,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2105,7 +2105,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2160,7 +2160,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2215,7 +2215,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2345,7 +2345,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2457,7 +2457,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2569,7 +2569,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2606,7 +2606,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2793,7 +2793,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2854,7 +2854,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -2933,7 +2933,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -3004,7 +3004,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -3416,7 +3416,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -3503,7 +3503,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM resource of interest",
@@ -3615,7 +3615,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -3652,7 +3652,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -3764,7 +3764,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -3801,7 +3801,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",
@@ -3913,7 +3913,7 @@ export const seriesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the series of interest",

@@ -531,8 +531,8 @@ export const instancesDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "GET Instances Pdf",
-					"value": "GET Instances Pdf",
+					"name": "GET Instances PDF",
+					"value": "GET Instances PDF",
 					"action": "Get embedded PDF",
 					"description": "Get the PDF file that is embedded in one DICOM instance. If the DICOM instance doesn't contain the `EncapsulatedDocument` tag or if the `MIMETypeOfEncapsulatedDocument` tag doesn't correspond to the PDF type, a `404` HTTP error is raised.",
 					"routing": {
@@ -865,7 +865,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -902,7 +902,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1189,7 +1189,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1250,7 +1250,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1329,7 +1329,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1400,7 +1400,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1479,7 +1479,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1558,7 +1558,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1637,7 +1637,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1716,7 +1716,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1795,7 +1795,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1874,7 +1874,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -1953,7 +1953,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -2032,7 +2032,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -2087,7 +2087,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -2142,7 +2142,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -2223,7 +2223,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2260,7 +2260,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2337,7 +2337,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2374,7 +2374,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2503,7 +2503,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2632,7 +2632,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2761,7 +2761,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2816,7 +2816,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -2921,7 +2921,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM resource of interest",
@@ -3050,7 +3050,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -3105,7 +3105,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -3160,7 +3160,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -3414,7 +3414,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -3501,7 +3501,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -3612,7 +3612,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -3723,7 +3723,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -3834,7 +3834,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -3871,7 +3871,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -3933,7 +3933,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -3994,7 +3994,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -4073,7 +4073,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -4144,7 +4144,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -4456,7 +4456,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -4543,7 +4543,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM resource of interest",
@@ -4655,7 +4655,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -4686,13 +4686,13 @@ export const instancesDescription: INodeProperties[] = [
 						"Instances"
 					],
 					"operation": [
-						"GET Instances Pdf"
+						"GET Instances PDF"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance interest",
@@ -4704,7 +4704,7 @@ export const instancesDescription: INodeProperties[] = [
 						"Instances"
 					],
 					"operation": [
-						"GET Instances Pdf"
+						"GET Instances PDF"
 					]
 				}
 			}
@@ -4803,7 +4803,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -4840,7 +4840,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -5101,7 +5101,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -5213,7 +5213,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -5275,7 +5275,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",
@@ -5312,7 +5312,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -5424,7 +5424,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the instance of interest",
@@ -5536,7 +5536,7 @@ export const instancesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the DICOM instance of interest",

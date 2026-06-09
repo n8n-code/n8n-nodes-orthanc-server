@@ -8,7 +8,7 @@ import type {
 export class OrthancServerApi implements ICredentialType {
 	name = 'N8nDevOrthancServerApi';
 
-	displayName = 'orthanc-server API';
+	displayName = 'Orthanc Server API';
 
 	icon: Icon = { light: 'file:../nodes/OrthancServer/orthanc-server.svg', dark: 'file:../nodes/OrthancServer/orthanc-server.dark.svg' };
 
@@ -22,7 +22,7 @@ export class OrthancServerApi implements ICredentialType {
 			default: 'https://demo.orthanc-server.com/',
 			required: true,
 			placeholder: 'https://demo.orthanc-server.com/',
-			description: 'The base URL of your orthanc-server API server',
+			description: 'The base URL of your Orthanc Server API server',
 		},
 		{
 			displayName: 'API Key',

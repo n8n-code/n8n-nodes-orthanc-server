@@ -87,8 +87,8 @@ export const logsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "GET Tools Log Level Http",
-					"value": "GET Tools Log Level Http",
+					"name": "GET Tools Log Level HTTP",
+					"value": "GET Tools Log Level HTTP",
 					"action": "Get log level for `http`",
 					"description": "Get the log level of the log category `http`",
 					"routing": {
@@ -99,8 +99,8 @@ export const logsDescription: INodeProperties[] = [
 					}
 				},
 				{
-					"name": "PUT Tools Log Level Http",
-					"value": "PUT Tools Log Level Http",
+					"name": "PUT Tools Log Level HTTP",
+					"value": "PUT Tools Log Level HTTP",
 					"action": "Set log level for `http`",
 					"description": "Set the log level of the log category `http`",
 					"routing": {
@@ -385,7 +385,7 @@ export const logsDescription: INodeProperties[] = [
 						"Logs"
 					],
 					"operation": [
-						"GET Tools Log Level Http"
+						"GET Tools Log Level HTTP"
 					]
 				}
 			}
@@ -404,7 +404,7 @@ export const logsDescription: INodeProperties[] = [
 						"Logs"
 					],
 					"operation": [
-						"PUT Tools Log Level Http"
+						"PUT Tools Log Level HTTP"
 					]
 				}
 			}
@@ -420,7 +420,7 @@ export const logsDescription: INodeProperties[] = [
 						"Logs"
 					],
 					"operation": [
-						"PUT Tools Log Level Http"
+						"PUT Tools Log Level HTTP"
 					]
 				}
 			}

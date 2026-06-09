@@ -626,7 +626,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -663,7 +663,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1075,7 +1075,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1112,7 +1112,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1274,7 +1274,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1335,7 +1335,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1414,7 +1414,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1485,7 +1485,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1564,7 +1564,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1643,7 +1643,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1722,7 +1722,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1801,7 +1801,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1880,7 +1880,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -1959,7 +1959,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2038,7 +2038,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2117,7 +2117,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2172,7 +2172,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2227,7 +2227,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2357,7 +2357,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2469,7 +2469,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2581,7 +2581,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2618,7 +2618,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2805,7 +2805,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2866,7 +2866,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -2945,7 +2945,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3016,7 +3016,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3428,7 +3428,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3465,7 +3465,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3502,7 +3502,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3539,7 +3539,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3676,7 +3676,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3763,7 +3763,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3800,7 +3800,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
@@ -3912,7 +3912,7 @@ export const patientsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "Orthanc identifier of the patient of interest",
